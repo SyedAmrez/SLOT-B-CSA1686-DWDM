@@ -1,5 +1,6 @@
 Topics that are practised in Day 1:
 1)Maximum
+
 2)Minimum
 3)Mean
 4)Mode(Home work)
