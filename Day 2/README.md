@@ -6,4 +6,4 @@ Day 2 Topics:
 
 3.RandomForest
 
-4.Boxplot
+4.Boxplot and Scatter Plot
