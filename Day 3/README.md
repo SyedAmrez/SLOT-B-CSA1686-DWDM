@@ -9,3 +9,7 @@ Day 3 Topics:
 4.Multiplication
 
 5.Division
+
+6.Decission tree
+
+7.Plot
