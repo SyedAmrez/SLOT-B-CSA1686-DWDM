@@ -5,3 +5,5 @@ Day 2 Topics:
 2.ChiSquare
 
 3.RandomForest
+
+4.Boxplot
