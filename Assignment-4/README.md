@@ -7,5 +7,6 @@
 (iii) Plot Histogram for the above frequency division
 
 2. Perform the Association analysis for supermarket data set.
-3. 
-4.  Implementation of the Data Segmentation by Expectation Maximization  (EM) Algorithm  and K- means through WEKA using “cancer”  dataset.    1. Cluster   2.  Visualize
+
+3.Implementation of the Data Segmentation by Expectation Maximization  (EM) Algorithm  and K- means through WEKA using “cancer”  dataset.    
+1. Cluster   2.  Visualize
